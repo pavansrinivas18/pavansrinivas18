@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+AI+that+thinks+%F0%9F%A7%A0;Deep+Learning+%7C+LLMs+%7C+Generative+AI+%F0%9F%A4%96;Turning+data+into+intelligence+%F0%9F%9A%80;6th+Sem+CS+Student+%40+Placement+Prep+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+AI+that+thinks+%F0%9F%A7%A0;Deep+Learning+%7C+LLMs+%7C+Generative+AI+%F0%9F%A4%96;Turning+data+into+intelligence+%F0%9F%9A%80;Open+Source+%7C+Hackathons+%7C+Innovation+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,20 +20,17 @@
 
 ## 🧬 About Me
 
-```python
-class PavanSrinivas:
-    def __init__(self):
-        self.name        = "Pavan Srinivas (Chintu)"
-        self.role        = "CS Student → AI/ML Engineer"
-        self.education   = "B.Tech Computer Science | 6th Semester"
-        self.location    = "Hyderabad, India 🇮🇳"
-        self.interests   = ["Generative AI", "Deep Learning", "LLMs", "MLOps"]
-        self.currently   = "Placement prep · DSA · AI project portfolio"
-        self.goal        = "15+ LPA @ top product company"
+<div align="center">
 
-    def say_hi(self):
-        print("I turn coffee ☕ and data 📊 into intelligent systems 🤖")
-```
+🤖 I'm **Pavan Srinivas**, a Computer Science student passionate about **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Generative AI**.
+
+I enjoy building innovative solutions that solve real-world problems through technology — from music-generating neural networks to OCR-powered equation solvers.
+
+🔭 My interests span **LLMs**, **intelligent systems**, and **AI-powered applications** that create meaningful impact at scale.  
+💡 I'm continuously learning new technologies, participating in **hackathons**, and expanding my expertise across software development and emerging AI trends.  
+🌍 Based in **Hyderabad, India** — building the future, one model at a time.
+
+</div>
 
 <br/>
 
@@ -47,8 +44,8 @@ class PavanSrinivas:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavansrinivas1805@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jd5sBGj3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/___pavan.srinivas__18)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pavan_srinivas-18/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pavan_srinivas_18)
 
 </div>
 
@@ -187,16 +184,6 @@ class PavanSrinivas:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pavansrinivas18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -230,26 +217,44 @@ class PavanSrinivas:
 <tr>
 <td align="center" width="50%">
 
-### 🏢 Cognifyz Technologies
-**C++ Developer Intern**
+### 🚀 Infosys Springboard
+**AI Developer Intern**
 <br/>
-Built performance-critical systems and components using modern C++ practices and data structures.
+Built a Car Negotiation AI Assistant — an intelligent conversational agent that simulates real-world automotive price negotiation using NLP and dialogue management techniques.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-6C63FF?style=flat-square&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 </td>
 <td align="center" width="50%">
 
-### ☁️ Salesforce Trailhead
-**Salesforce Developer**
+### 🖥️ IBM Technologies
+**Frontend Developer Intern**
 <br/>
-Completed comprehensive Salesforce development modules covering CRM, Apex, and cloud platform integration.
+Developed and optimized responsive UI components and web interfaces using modern frontend technologies, following IBM's design language and accessibility standards.
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavansrinivas18/pavansrinivas18/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavansrinivas18/pavansrinivas18/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pavansrinivas18/pavansrinivas18/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -262,6 +267,12 @@ Completed comprehensive Salesforce development modules covering CRM, Apex, and c
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+### 🌊 Thanks for visiting!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Always+learning.+Always+building.+Always+growing.+%F0%9F%9A%80" alt="footer-typing" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's+build+something+amazing!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
