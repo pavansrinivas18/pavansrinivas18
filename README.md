@@ -50,7 +50,6 @@ I'm **Pavan Srinivas** — a CS student on a mission to build **AI that thinks, 
 ---
 
 ## 🚀 Featured Projects
-
 <div align="center">
 <table>
 <tr>
@@ -87,16 +86,23 @@ I'm **Pavan Srinivas** — a CS student on a mission to build **AI that thinks, 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Encrypted Chat App
-> End-to-end encrypted messaging application with modern cryptographic protocols for secure communication.
+### 🧬 Synthetic Medical Data Generation
+> Generative AI system for producing privacy-preserving synthetic medical datasets, enabling safe ML research without exposing real patient data.
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Cryptography](https://img.shields.io/badge/-Encryption-6C63FF?style=flat-square&logo=keybase&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative_AI-FF6F00?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+### 🚗 AI Car Lease & Loan Negotiation Assistant
+> AI-powered assistant that analyzes and negotiates car lease and loan contracts, helping users secure better financial terms.
+
+![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MIT License](https://img.shields.io/badge/-MIT_License-green?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
 ### 🌦️ Real-Time Weather Dashboard
 > Live weather dashboard powered by Java + REST APIs with interactive charts and geolocation support.
@@ -107,11 +113,7 @@ I'm **Pavan Srinivas** — a CS student on a mission to build **AI that thinks, 
 </td>
 <td width="50%" valign="top">
 
-### ♻️ IoT Weather Monitoring System
-> Smart weather monitoring using IoT sensors with real-time alerts and route optimization.
 
-![IoT](https://img.shields.io/badge/-IoT-0078D4?style=flat-square&logo=azure-iot&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
