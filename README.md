@@ -20,11 +20,21 @@
 
 ## 🧬 About Me
 
-Hello<br><br/>
-I'm Pavan Srinivas, a Computer Science student passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI. I enjoy building innovative solutions that solve real-world problems through technology. My interests include developing intelligent systems, exploring Large Language Models (LLMs), and creating impactful AI-powered applications. I have worked on projects such as AI Music Generation, Image Super-Resolution using Neural Networks, Handwritten Equation Solver, and Real-Time Weather Dashboard. I am continuously learning new technologies, participating in hackathons, and expanding my expertise in software development, machine learning, and emerging AI trends. My goal is to leverage technology to build meaningful and scalable solutions that make a positive impact
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+### 👋 Hello, World!
 
-<br/>
+I'm **Pavan Srinivas** — a CS student on a mission to build **AI that thinks, creates, and solves**.
+
+- 🤖 Passionate about **AI · ML · Deep Learning · Generative AI**
+- 🎵 Built an **LSTM Music Generator** that composes from text prompts
+- 🔭 Exploring **LLMs, RAG pipelines & Agentic AI**
+- 🏆 Love **hackathons** — where ideas meet execution under pressure
+- 💬 Ask me about **Neural Networks, OCR, NLP or anything AI**
+- ⚡ Fun fact: I believe every real-world problem has an AI solution waiting to be built
+- 🌍 Based in **Hyderabad, India** 🇮🇳
+
+<br clear="right"/>
 
 ---
 
