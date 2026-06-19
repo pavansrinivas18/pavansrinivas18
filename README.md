@@ -244,8 +244,6 @@ Developed and optimized responsive UI components and web interfaces using modern
 ---
 
 
----
-
 <div align="center">
 
 ### 💬 Dev Quote of the Day
