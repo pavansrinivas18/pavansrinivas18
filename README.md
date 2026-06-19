@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pavan%20Srinivas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20CS%20Student&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8B0000,100:0d0d0d&height=180&section=header&text=Pavan%20Srinivas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20CS%20Student&descAlignY=52&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -9,10 +9,6 @@
 </a>
 
 <br/>
-
-<!-- Profile Views & Followers -->
-[![](https://komarev.com/ghpvc/?username=pavansrinivas18&style=flat-square&color=6C63FF&label=Profile+Views)](https://github.com/pavansrinivas18)
-[![GitHub followers](https://img.shields.io/github/followers/pavansrinivas18?label=Followers&style=flat-square&color=6C63FF)](https://github.com/pavansrinivas18)
 
 </div>
 
@@ -22,17 +18,17 @@
 
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-### 👋 Hello!
+### 👋 Hello, World!
 
 I'm **Pavan Srinivas** — a CS student on a mission to build **AI that thinks, creates, and solves**.
 
--  Passionate about **AI · ML · Deep Learning · Generative AI**
--  Built an **LSTM Music Generator** that composes from text prompts
--  Exploring **LLMs, RAG pipelines & Agentic AI**
--  Love **hackathons** — where ideas meet execution under pressure
--  Ask me about **Neural Networks, OCR, NLP or anything AI**
--  Fun fact: I believe every real-world problem has an AI solution waiting to be built
--  Based in **Hyderabad, India** 🇮🇳
+- 🤖 Passionate about **AI · ML · Deep Learning · Generative AI**
+- 🎵 Built an **LSTM Music Generator** that composes from text prompts
+- 🔭 Exploring **LLMs, RAG pipelines & Agentic AI**
+- 🏆 Love **hackathons** — where ideas meet execution under pressure
+- 💬 Ask me about **Neural Networks, OCR, NLP or anything AI**
+- ⚡ Fun fact: I believe every real-world problem has an AI solution waiting to be built
+- 🌍 Based in **Hyderabad, India** 🇮🇳
 
 <br clear="right"/>
 
@@ -275,6 +271,6 @@ Developed and optimized responsive UI components and web interfaces using modern
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's+build+something+amazing!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8B0000,100:0d0d0d&height=120&section=footer&text=Let's+build+something+amazing!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
