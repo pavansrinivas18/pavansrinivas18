@@ -104,14 +104,16 @@ I'm **Pavan Srinivas** — a CS student on a mission to build **AI that thinks, 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MIT License](https://img.shields.io/badge/-MIT_License-green?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
+
 ### 🌦️ Real-Time Weather Dashboard
 > Live weather dashboard powered by Java + REST APIs with interactive charts and geolocation support.
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+
 
 
 
