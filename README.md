@@ -107,8 +107,8 @@ I'm **Pavan Srinivas** — a CS student on a mission to build **AI that thinks, 
 </td>
 <td width="50%" valign="top">
 
-### ♻️ IoT Waste Management System
-> Smart waste monitoring using IoT sensors with real-time alerts and route optimization for waste collection.
+### ♻️ IoT Weather Monitoring System
+> Smart weather monitoring using IoT sensors with real-time alerts and route optimization.
 
 ![IoT](https://img.shields.io/badge/-IoT-0078D4?style=flat-square&logo=azure-iot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -243,17 +243,6 @@ Developed and optimized responsive UI components and web interfaces using modern
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavansrinivas18/pavansrinivas18/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavansrinivas18/pavansrinivas18/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pavansrinivas18/pavansrinivas18/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
