@@ -103,6 +103,7 @@ I'm **Pavan Srinivas** — a CS student on a mission to build **AI that thinks, 
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![MIT License](https://img.shields.io/badge/-MIT_License-green?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
 </td>
