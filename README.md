@@ -58,6 +58,7 @@ I'm **Pavan Srinivas** — a CS student on a mission to build **AI that thinks, 
 ### 🎵 AI Music Generation
 > LSTM-based deep learning system that generates original music from text descriptions. Built with Python, TensorFlow, and Streamlit.
 
+![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
