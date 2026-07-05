@@ -25,7 +25,7 @@ I'm **Pavan Srinivas** — a CS student on a mission to build **AI that thinks, 
 -  Passionate about **AI · ML · Deep Learning · Generative AI**
 -  Built an **LSTM Music Generator** that composes from text prompts
 -  Exploring **LLMs, RAG pipelines & Agentic AI**
--  Love **hackathons** — where ideas meet execution under pressure.
+-  Love **hackathons** — where ideas meet execution under pressure
 -  Ask me about **Neural Networks, OCR, NLP or anything AI**
 -  Fun fact: I believe every real-world problem has an AI solution waiting to be built
 -  Based in **Hyderabad, India** 🇮🇳
